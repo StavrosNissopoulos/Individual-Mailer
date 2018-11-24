@@ -1,0 +1,12 @@
+Datetime: {2018/11/17 00:42:42} || Sender: {pioaplos} || Receiver: {modas} || Title: {otitlos} || Message: {neo minima}
+Datetime: {2018/11/11 00:23:27} || Sender: {pioaplos} || Receiver: {admin} || Title: {deftero se admin} || Message: {pame ki alli dokimi}
+Datetime: {2018/11/17 00:12:45} || Sender: {pioaplos} || Receiver: {pioaplos} || Title: {ston eafto mou} || Message: {dokimastiko ston eafto moy}
+Datetime: {2018/11/17 20:16:16} || Sender: {pioaplos} || Receiver: {aplos} || Title: {ena minima} || Message: {ayto to minima den exei kanena noima alla kalo einai na to dokimaseis !! sosta??? kai polla grammata kai arithous 1231231231safwrwet342534534}
+Datetime: {2018/11/19 09:45:12} || Sender: {admin} || Receiver: {modas} || Title: {Kalispera!} || Message: {Geia sou moda! ti nea?}
+Datetime: {2018/11/19 09:47:48} || Sender: {modas} || Receiver: {dialextos} || Title: {Geiasssssss} || Message: {Hello there? What's up doc??}
+Datetime: {2018/11/19 09:48:57} || Sender: {modas} || Receiver: {mikrospaixths} || Title: {God morgen!!} || Message: {Hello there!! All good? Send me your news!}
+Datetime: {2018/11/19 09:54:03} || Sender: {admin} || Receiver: {modas} || Title: {Hello There} || Message: {Modas good morning! What is up? Send me your feedback for the app}
+Datetime: {2018/11/19 09:54:53} || Sender: {admin} || Receiver: {aplos} || Title: {All is good} || Message: {Hello there. Program is running smooth. No problems so far. Send me your opinion!}
+Datetime: {2018/11/19 09:56:20} || Sender: {aplos} || Receiver: {admin} || Title: {Feedback} || Message: {Everything is working good for me. No problems so far. Looks good!}
+Datetime: {2018/11/19 11:09:50} || Sender: {modas} || Receiver: {admin} || Title: {Whats up?} || Message: {All good bro? The program runs smooth. The customers are satisfied. hehe!}
+Datetime: {2018/11/19 15:11:26} || Sender: {pioaplos} || Receiver: {modas} || Title: {Geia sou} || Message: {Kalimera}
